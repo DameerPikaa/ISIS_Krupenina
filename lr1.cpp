@@ -114,6 +114,7 @@ int main() {
             std::cout << std::fixed << std::setprecision(3) << arr[i] << " ";
         }
         std::cout << std::endl;
+        std::cout << std::endl;
 
         //std::cout << "Выберите действие (1 - добавить элемент, 2 - удалить элемент, 0 - выход): ";
         std::cin >> choice;
